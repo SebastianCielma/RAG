@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment files
+.env
+
+# IDE
+.idea/
+
+# User uploads
+uploads/
